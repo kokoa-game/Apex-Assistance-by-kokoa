@@ -1,7 +1,7 @@
 # Apex-Assistance-by-kokoa
 
 ## Download
-[Newest](https://www.dropbox.com/scl/fi/73xxvxi26092uzqymilte/APEX-Assistance.zip?rlkey=0nfd3z6xkhrmqc8grg9v939kb&dl=0)
+[Newest](https://www.dropbox.com/scl/fi/d777hy7wvycyu80d4wk3l/APEX-Assistance.zip?rlkey=xm71mrgz4ehpeja2r081yzdgb&dl=0)
 
 ## Supported and Tested Platforms
 
